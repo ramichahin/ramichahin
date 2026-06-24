@@ -26,7 +26,7 @@ I love breaking down complex algorithmic problems and turning data into actionab
 
 ### 💻 Featured Projects
 
-#### 📰 NLP Fake News Detector & Content Analyzer
+#### [📰 NLP Fake News Detector & Content Analyzer](https://github.com/ramichahin/Categorizing-Fake-News)
 *   Built a comprehensive machine learning pipeline using `Scikit-Learn` (`LogisticRegression`, `SGDClassifier`) to classify factual vs. fake news articles.
 *   Engineered text preprocessing workflows with `spaCy` and `NLTK`, analyzing POS frequencies and extracting Named Entity Recognition (NER) analytics.
 *   Integrated sentiment analysis via `VaderSentiment` and dynamic topic modeling with `Gensim` (LSI/TF-IDF).
