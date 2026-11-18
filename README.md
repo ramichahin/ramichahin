@@ -101,7 +101,7 @@ My primary area of interest and current learning focus.
 
 ### 💻 Featured Projects
 
-#### 📰 NLP Fake News Detector & Content Analyzer
+#### 📰 [NLP Fake News Detector & Content Analyzer](https://github.com/ramichahin/Categorizing-Fake-News)
 
 - Developed a machine learning pipeline using Scikit-Learn to classify factual and fake news articles.
 - Implemented text preprocessing and linguistic analysis using spaCy and NLTK.
